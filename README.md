@@ -1,38 +1,27 @@
-# Hi there, I'm [Your Name] 👋
+# Hi
 
-## About Me
+## Abdulrahman known as mayacin
 
-- 🔭 I’m currently working on: [Your current project or focus]
-- 🌱 I’m currently learning: [Technologies or skills you're learning]
-- 👯 I’m looking to collaborate on: [Types of projects or collaborations you're interested in]
-- 💬 Ask me about: [Your areas of expertise]
-- 📫 How to reach me: [Your contact information]
-- ⚡ Fun fact: [An interesting fact about you]
+didn't enter any IT university or school , I started learning in 2019 & I'm still learning 
+- how old are you ? 23
+- How long have you been in IT? 2019 and decided to post my projects in 2024
+- how many languages do you speak? EN/AR/JP (jp not fluently)
+- do you have any certs? in future inshallah
 
-## 🛠️ Skills & Certifications
 
-- **Certifications:**
-  - [List your certifications, e.g., OSCP, CEH, etc.]
+## 🛠️ Skills 
 
-- **Technical Skills:**
-  - Programming Languages: [e.g., Python, C++, JavaScript]
-  - Tools & Technologies: [e.g., Git, Docker, AWS]
-  - Frameworks: [e.g., React, Node.js]
+| CC | A+ | Network+ | Linux+ | CCNA | CEH | OCSP | SECURITY+ | BASH SCRIPTIN | PYTHON (related to cybersec) | NETWORKIN | SOME LINUX TOOLS 
 
-## 📈 GitHub Stats
+📚 I'm currently learning about Malware analysis and reversing
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-- [![Twitter](https://img.shields.io/badge/Twitter-Handle-blue)](https://twitter.com/yourhandle)
-- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/channel/yourchannel)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-abderrahmane-blue)](https://www.linkedin.com/in/abderrahmane-toaba-75b341244/)
+- [![Discord](https://img.shields.io/badge/Discord-mayacin-blue)]
 
-## 📂 Featured Repositories
 
-Here are some of my notable projects:
 
-- [**Project Name**](https://github.com/yourusername/projectname): Brief description of the project.
-- [**Another Project**](https://github.com/yourusername/anotherproject): Brief description of this project.
+
 
