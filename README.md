@@ -2,18 +2,15 @@
 
 ## Abdulrahman known as mayacin
 
-didn't enter any IT university or school , I started learning in 2019 & I'm still learning 
-- how old are you ? 23
+| CC | A+ | Network+ | Linux+ | CCNA | CEH | OCSP | SECURITY+ | BASH SCRIPTIN | PYTHON (related to cybersec) | NETWORKIN | SOME LINUX TOOLS 
+
+📚 didn't enter any IT university or school , I started learning in 2019 & I'm still learning 
 - How long have you been in IT? 2019 and decided to post my projects in 2024
 - how many languages do you speak? EN/AR/JP (jp not fluently)
 - do you have any certs? in future inshallah
+  
 ![Profile Image](8bd0e35f70bd8e90eb017307b743a69b.jpg)
 
-## 🛠️ Skills 
-
-| CC | A+ | Network+ | Linux+ | CCNA | CEH | OCSP | SECURITY+ | BASH SCRIPTIN | PYTHON (related to cybersec) | NETWORKIN | SOME LINUX TOOLS 
-
-📚 I'm currently learning about Malware analysis and reversing
 
 
 ## 🔗 Connect with Me
