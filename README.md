@@ -9,8 +9,7 @@
 - how many languages do you speak? EN/AR/JP (jp not fluently)
 - do you have any certs? in future inshallah
   
-<img src="8bd0e35f70bd8e90eb017307b743a69b.jpg" width="200" height="200">
-  
+
 
 
 ## 🔗 Connect with Me
